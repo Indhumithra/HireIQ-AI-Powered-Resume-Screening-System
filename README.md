@@ -165,4 +165,45 @@ When a candidate status is changed to **shortlisted**, the system automatically 
 ## 👩‍💻 Author
 
 **Indhumithra M**
+
 BE Computer Science Engineering
+
+
+
+
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+
+<img width="1904" height="786" alt="Screenshot 2026-02-24 143801" src="https://github.com/user-attachments/assets/a39905c8-cdd0-4138-9eb3-4c8a37fc0b2a" />
+
+
+---
+
+### 📊 Dashboard Overview
+
+<img width="1911" height="793" alt="Screenshot 2026-02-24 143842" src="https://github.com/user-attachments/assets/d389526c-842c-46c6-b8f6-5369436e6e95" />
+
+
+---
+
+### 💼 Job Management
+
+<img width="1919" height="793" alt="Screenshot 2026-02-24 143857" src="https://github.com/user-attachments/assets/839cdb81-4a99-42e8-b8cd-9245aa7cda0b" />
+
+
+---
+
+### 👥 Candidate Pool
+
+<img width="1919" height="813" alt="Screenshot 2026-02-24 143914" src="https://github.com/user-attachments/assets/b44848d4-42af-4596-a9c2-736b3bb9ad79" />
+
+
+---
+
+### 🤖 AI Screening Engine
+
+<img width="1893" height="747" alt="Screenshot 2026-02-24 143931" src="https://github.com/user-attachments/assets/07e511e2-66a7-40a8-9b52-eb08772d235f" />
+
+
+---
